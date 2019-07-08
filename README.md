@@ -7,10 +7,9 @@ This repository is used to store all the files needed for the final shiny assign
  1. `ui.R` The user interface R code
  
  2. `server.R` The server R code
- 
- 3. `CompoundInterest.md`
 
 ## Link to Shiny app
 https://selvstats.shinyapps.io/DDP_Week4_Project/ 
 
 ## Link to R-pubs presentation
+http://rpubs.com/ssendhil/Compound_Interest_Pitch
